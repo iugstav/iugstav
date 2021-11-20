@@ -3,16 +3,22 @@
 <br/><br/>
 
 <h3>🚀 Technologies</h3>
-- I’m currently focusing on front-end development with [Typescript](https://www.typescriptlang.org)
-- My main technologies are [ReactJs](https://reactjs.org) for web Front-end and [ExpressJs](https://expressjs.com) or [NesjJs](https://nestjs.com)(still learning) for Back-end
+<ul>
+  <li>I’m currently focusing on front-end development with <a href="https://www.typescriptlang.org">Typescript</a>;</li>
+  <li>My main technologies are <a href="https://reactjs.org">ReactJs</a> for web Front-end and <a href="https://expressjs.com">ExpressJs</a> or <a href="https://nestjs.com">NestJs</a> (still learning) for Back-end;</li>
+</ul>
 
 <h3>📞 Wanna reach me?</h3>
-- Text me on [Discord](https://discord.com/channels/@me)
-- Or maybe in my **email**: soaresgu2710@gmail.com
+<ul>
+  <li>Text me on <a href="https://discord.com/channels/@me">Discord;</a></li>
+  <li>Or maybe in my <strong>email</strong>: soaresgu2710@gmail.com;</li>
+</ul>
 
 
 <h3>Here, take a look at my repositories:</h3>
-- [noteMe](https://github.com/iugstav/noteMe), a tasks app for everyone;
-- [Podcastr](https://github.com/iugstav/Podcastr), a developer focused podcasts app;
-- [Letmeask](https://github.com/iugstav/letmeask-nlw), a Q&A app for content creators;
-- [Yuufe Bot](https://github.com/iugstav/Yuufe-bot-discord), my personal discord bot for all purposes;
+<ul>
+  <li><a href="https://github.com/iugstav/noteMe">NoteMe</a>, a tasks app for everyone;</li>
+  <li><a href="https://github.com/iugstav/Podcastr">Podcastr</a>, a developer focused podcasts app;</li>
+  <li><a href="https://github.com/iugstav/letmeask-nlw">Letmeask</a>, a Q&A app for content creators;</li>
+  <li><a href="https://github.com/iugstav/Yuufe-bot-discord">Yuufe Bot</a>, my personal discord bot for all purposes;</li>
+</ul>
