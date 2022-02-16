@@ -16,7 +16,7 @@
 <div style="display: inline_block">
   <p>- 👩‍💻 Jr. developer</p>
   <p>- 👨‍🎓 Mathematics student</p>
-  <p>- 🏆 Chasing perfection: Typescript, HTML, CSS, NestJs, ReactJs, NextJs and Go</p>
+  <p>- 🏆 Chasing perfection: Typescript, HTML, CSS, NestJs, ReactJs, NextJs and Remix</p>
 </div>
 
 ## Technologies
