@@ -30,7 +30,6 @@
   <li><a href="https://github.com/iugstav/noteMe">NoteMe</a>, a tasks app for everyone;</li>
   <li><a href="https://github.com/iugstav/Podcastr">Podcastr</a>, a developer focused podcasts app;</li>
   <li><a href="https://github.com/iugstav/letmeask-nlw">Letmeask</a>, a Q&A app for content creators;</li>
-  <li><a href="https://github.com/iugstav/Yuufe-bot-discord">Yuufe Bot</a>, my personal discord bot for all purposes;</li>
 </ul>
 
 ## Wanna Reach me? 📞
