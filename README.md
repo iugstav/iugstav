@@ -27,7 +27,7 @@
 
 ## Some repos
 <ul>
-  <li><a href="https://github.com/iugstav/noteMe">NoteMe</a>, a tasks app for everyone;</li>
+  <li><a href="https://github.com/iugstav/pizzaria-backend">Pizzero's</a>, the backend implementation of a pizza ordering application;</li>
   <li><a href="https://github.com/iugstav/Podcastr">Podcastr</a>, a developer focused podcasts app;</li>
   <li><a href="https://github.com/iugstav/letmeask-nlw">Letmeask</a>, a Q&A app for content creators;</li>
 </ul>
