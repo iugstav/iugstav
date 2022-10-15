@@ -12,32 +12,23 @@
  
   ## I'm Gustavo, nice to meet you! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### About me
-<div style="display: inline_block">
-  <p>- 👩‍💻 Jr. developer</p>
-  <p>- 👨‍🎓 Mathematics student</p>
-  <p>- 🏆 Chasing perfection: Typescript, HTML, CSS, NestJs, ReactJs, NextJs and Remix</p>
-</div>
+## About me
+  - 💓 A Passionate software developer
+  - 👨‍🎓 Mathematics student
+  - 🏆 Chasing perfection in web development
 
 ## Technologies
-<ul>
-  <li>My main programming language is <a href="https://www.typescriptlang.org">Typescript</a>;</li>
-  <li>My main technologies are <a href="https://reactjs.org">ReactJs</a> for web Front-end and <a href="https://expressjs.com">ExpressJs</a> or <a href="https://nestjs.com">NestJs</a> (still learning) for Back-end;</li>
-</ul>
+  - My main programming language is [Typescript](https://www.typescriptlang.org) and I'm learning [Go](https://go.dev/)
+  - My main technologies are [ReactJs](https://reactjs.org) for web Front-end and [ExpressJs](https://expressjs.com) or [NestJs](https://nestjs.com) (still learning) for Back-end
 
 ## Some repos
-<ul>
-  <li><a href="https://github.com/iugstav/pizzaria-backend">Pizzero's</a>, the backend implementation of a pizza ordering application;</li>
-  <li><a href="https://github.com/iugstav/Podcastr">Podcastr</a>, a developer focused podcasts app;</li>
-  <li><a href="https://github.com/iugstav/letmeask-nlw">Letmeask</a>, a Q&A app for content creators;</li>
-</ul>
+  - [My personal blog](https://github.com/iugstav/colatech-personal-blog), built with NextJs and Markdown
+  - [Pizzero's](https://github.com/iugstav/pizzaria-backend), a backend implementation of a pizza ordering system
+  - [Xpenses](https://github.com/iugstav/Xpenses-backend), a finances tracker backend
 
 ## Wanna Reach me? 📞
 <br/>
-<p align="center">
-  <a src="https://github.com/iugstav">
-    <img height="48" src= "https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/iugstav"/>
-  </a>
+<p align="left">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:soaresgu2710@gmail.com">
     <img height="48" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:soaresgu2710@gmail.com" />
