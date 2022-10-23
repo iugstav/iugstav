@@ -21,11 +21,6 @@
   - My main programming language is [Typescript](https://www.typescriptlang.org) and I'm learning [Go](https://go.dev/)
   - My main technologies are [ReactJs](https://reactjs.org) for Front-end and [ExpressJs](https://expressjs.com) or [NestJs](https://nestjs.com) (still learning) for Back-end
 
-## Some repos
-  - [My personal blog](https://github.com/iugstav/colatech-personal-blog), built with NextJs and Markdown
-  - [Pizzero's](https://github.com/iugstav/pizzaria-backend), a backend implementation of a pizza ordering system
-  - [Xpenses](https://github.com/iugstav/Xpenses-backend), a finances tracker backend
-
 ## Wanna Reach me? 📞
 <br/>
 <p align="left">
