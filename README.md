@@ -19,7 +19,7 @@
 
 ## Technologies
   - My main programming language is [Typescript](https://www.typescriptlang.org) and I'm learning [Go](https://go.dev/)
-  - My main technologies are [ReactJs](https://reactjs.org) for web Front-end and [ExpressJs](https://expressjs.com) or [NestJs](https://nestjs.com) (still learning) for Back-end
+  - My main technologies are [ReactJs](https://reactjs.org) for Front-end and [ExpressJs](https://expressjs.com) or [NestJs](https://nestjs.com) (still learning) for Back-end
 
 ## Some repos
   - [My personal blog](https://github.com/iugstav/colatech-personal-blog), built with NextJs and Markdown
