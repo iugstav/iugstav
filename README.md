@@ -18,8 +18,7 @@
   - 🏆 Chasing perfection in web development
 
 ## Technologies
-  - My main programming language is [Typescript](https://www.typescriptlang.org) and I'm learning [Go](https://go.dev/)
-  - My main technologies are [ReactJs](https://reactjs.org) for Front-end and [ExpressJs](https://expressjs.com) or [NestJs](https://nestjs.com) (still learning) for Back-end
+  I don't have a fixed stack of technologies for now. My main language is typescript both for back and front-end but nowadays i'm into another languages like Go and C# for learning purposes.
 
 ## Wanna Reach me? 📞
 <br/>
