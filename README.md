@@ -19,16 +19,3 @@
 
 ## Technologies
   I don't have a fixed stack of technologies for now. My main language is typescript both for back and front-end but nowadays i'm into another languages like Go and C# for learning purposes.
-
-## Wanna Reach me? 📞
-<br/>
-<p align="left">
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/guxtavokk">
-    <img height="48" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/channels/@me">
-    <img height="48" src="https://img.shields.io/badge/discord-7289DA?&style=for-the-badge&logo=discord&logoColor=white&link=mailto:https://discordapp.com/users/338815498890510337/" />
-  </a>
-</p>
