@@ -15,7 +15,4 @@
 ## About me
   - 💓 A Passionate software developer
   - 👨‍🎓 Mathematics student
-  - 🏆 Chasing perfection in web development
-
-## Technologies
-  I don't have a fixed stack of technologies for now. My main language is typescript both for back and front-end but nowadays i'm into another languages like Go and C# for learning purposes.
+  - 🏆 Programming languages enthusiast
